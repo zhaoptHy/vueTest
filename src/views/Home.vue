@@ -1,13 +1,11 @@
 <template>
   <div class="container-full-column-center">
-    <span>BASE PROJECT</span>
-    <span>Vue 2.x</span>
+    <h1>Jenkins自动部署测试</h1>
   </div>
 </template>
 
 <script>
-export default {
-}
+export default {}
 </script>
 
 <style scoped>
